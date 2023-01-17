@@ -2,7 +2,7 @@
 
 # Omma
 
-Site institucional de receitas desevolvido durante o programa XP da Gama Academy
+Site institucional de receitas responsivo desevolvido durante o programa XP da Gama Academy
 
 ## Stacks
 
